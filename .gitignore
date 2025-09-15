@@ -1,0 +1,30 @@
+# --- Build artifacts ---
+build/
+*.o
+*.os
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# --- godot-cpp build outputs ---
+godot-cpp/bin/
+godot-cpp/lib*
+godot-cpp/**/obj/
+
+# --- Godot project artifacts ---
+demoproject/.godot/
+demoproject/.import/
+demoproject/imported/
+demoproject/bin/
+
+
+# --- Python cache (SConstruct.py, helpers) ---
+__pycache__/
+*.pyc
+
+# --- SCons database ---
+.sconsign.dblite
+compile_commands.json
