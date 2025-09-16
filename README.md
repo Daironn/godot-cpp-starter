@@ -5,10 +5,10 @@ It includes a minimal demo project and build configuration, so you can quickly s
 
 ## Requirements
 
-### Godot 4.x (minimum version: 4.1)
-### Python and SCons installed (build system)
-### C++ compiler (LLVM, clangd)
-### VS Code (recommended)
+- Godot 4.x (minimum version: 4.1)
+- Python and SCons installed (build system)
+- C++ compiler (LLVM, clangd)
+- VS Code (recommended)
 
 ## Building the project
 
