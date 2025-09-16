@@ -28,8 +28,7 @@ You can also speed up the build by using multiple threads:
 (where N is the number of threads you want to use).
 
 
-##
-Setting up the extension
+## Setting up the extension
 
 After compilation, you need to create a MyNode.gdextension file inside `demoproject/bin` with the following content:
 ```
